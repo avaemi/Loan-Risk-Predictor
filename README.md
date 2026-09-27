@@ -1,4 +1,4 @@
-# Loan Default Risk Predictor
+# Credit Risk Predictor
 
 A data science and machine learning project focused on predicting borrower loan default risk using financial and demographic indicators.
 
